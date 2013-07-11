@@ -1,0 +1,21 @@
+
+
+
+@media all and (max-width: 320px) and (min-width: 0px) {
+	    
+	body{
+		overflow-x: hidden;
+		margin-top:   20px;
+		width: 		  310px;
+	}
+}
+
+/*IPHONE LANDSCAPE*/
+@media all and (max-width: 480px) and (min-width: 321px) {
+    
+	body{
+		overflow-x: hidden;
+		margin-top:   10px;
+		width: 		  310px;
+	}}
+}

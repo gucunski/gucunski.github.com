@@ -1,0 +1,25 @@
+body{
+	background-color: hsla( 000, 00%, 91%, 1);
+	color: 			  hsla( 000, 00%, 28%, 1);
+	}
+
+
+
+a{ 		   	color:					 hsla( 210, 80%, 55%, 1);
+			border-bottom: 1px solid hsla( 210, 80%, 65%, 1);
+			text-decoration: none;
+			
+}
+			
+a:visited{ 	color:					 hsla( 210, 90%, 45%, 1);
+			border-bottom: 1px solid hsla( 210, 90%, 55%, 1);
+}
+
+
+a:hover{   	color:					 hsla( 210, 70%, 40%, 1);
+			border-bottom: 1px solid hsla( 210, 70%, 40%, 1);}
+
+
+a:active{	color:					 hsla( 210, 60%, 20%, 1);
+			border-bottom: 1px solid hsla( 210, 60%, 20%, 1);}
+¡
